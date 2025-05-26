@@ -21,7 +21,7 @@ You need to replace:
 ```bash
 --model_path --vision_tower --pretrain_mm_mlp_adapter --data_path --output_dir
 ```
-with your file_path
+with your file_path. If you encounter any issues during the reproduction process, please don’t hesitate to let us know — we will assist you promptly.
 ## Citation
 Our code and datasets are based on [VideoLLaMA2](https://github.com/DAMO-NLP-SG/VideoLLaMA2). We appreciate the great help of this work. If you use the code of this work, please cite using this BibTeX:
 ```bash
